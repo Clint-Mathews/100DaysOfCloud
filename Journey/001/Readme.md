@@ -10,7 +10,6 @@
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
 [Twitter posts](https://twitter.com/clint_mathews_/status/1573007940054708225?s=20&t=wHTsg5sgffUC175V8D0FyQ)
+
 [Hashnode posts](https://clint-mathews.hashnode.dev/)
